@@ -1,5 +1,7 @@
 ## Hey, I'm Albert 👋
 
+### Software Engineer · Application Development · Test Automation · Quality Engineering
+
 <!--
 **albert-fernandez/albert-fernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
